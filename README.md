@@ -5,7 +5,6 @@ This app was built as a portfolio to outline my professional experience and educ
 
 ## Built With
 
-- Javascript
 - HTML
 - CSS
 - Bootstrap
